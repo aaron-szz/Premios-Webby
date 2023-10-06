@@ -25,7 +25,7 @@ Su distintivo es la limitación de los discursos de aceptación a tan solo cinco
 En resumen, los Webby Awards son unos premios que dan el reconocimiento a la innovación y la
 excelencia en el mundo digital y en línea.
 
-![U+200E](https://github.com/aaron-szz/Premios-Webby/commit/796fb1c3b5e14db01d1d244aca5f1cd9d5ea707d "imagen")
+![U+200E](https://github.com/aaron-szz/Premios-Webby/blob/main/167399302_c36380b9f4_b%20(1).jpg "imagen")
 
 
 
