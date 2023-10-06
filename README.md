@@ -27,5 +27,5 @@ excelencia en el mundo digital y en línea.
 
 ![U+200E](https://github.com/aaron-szz/Premios-Webby/blob/main/167399302_c36380b9f4_b%20(1).jpg "imagen")
 
-
+![U+200E](https://github.com/aaron-szz/Premios-Webby/blob/main/63911436082c5.jpeg "imagen")
 
