@@ -25,7 +25,7 @@ Su distintivo es la limitación de los discursos de aceptación a tan solo cinco
 En resumen, los Webby Awards son unos premios que dan el reconocimiento a la innovación y la
 excelencia en el mundo digital y en línea.
 
-|||
+|Hollywood Roosevelt Hotel|Steve Wilhite (Inventor de formato GIF)|
 |:----------:|:----------:|
 |![U+200E](https://github.com/aaron-szz/Premios-Webby/blob/main/167399302_c36380b9f4_b%20(1).jpg "imagen")|![U+200E](https://github.com/aaron-szz/Premios-Webby/blob/main/63911436082c5.jpeg "imagen")|
 
