@@ -1,7 +1,4 @@
 # Premios-Webby
-Aaron Suarez
-
-## __Premios Webby__
 
 - __¿Qué son los premios Webby?__
 
