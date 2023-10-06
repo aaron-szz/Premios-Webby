@@ -20,12 +20,14 @@ Los Webby Awards se dividen en múltiples categorías que abarcan áreas como si
 
 Los ganadores de los Webby Awards suelen ser proyectos que destacan por su creatividad, diseño, contenido y capacidad para aprovechar las posibilidades de la tecnología digital y la web.
 
+__Curiosidades__
+
+Su distintivo es la limitación de los discursos de aceptación a tan solo cinco palabras, lo que ha dado lugar a la famosa expresión "cinco palabras para un Webby"
+
 - __Resumen__ 
 
 En resumen, los Webby Awards son unos premios que dan el reconocimiento a la innovación y la
 excelencia en el mundo digital y en línea.
 
-- __Curiosidades__
 
-Su distintivo es la limitación de los discursos de aceptación a tan solo cinco palabras, lo que ha dado lugar a la famosa expresión "cinco palabras para un Webby"
 
